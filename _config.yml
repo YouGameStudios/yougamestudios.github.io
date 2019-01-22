@@ -49,6 +49,9 @@ url: https://ygstudios.ga
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+#Theme
+remote_theme: willianjusten/will-jekyll-template
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
