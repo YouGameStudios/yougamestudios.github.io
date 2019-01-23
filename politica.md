@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Política de Privacidad
-permalink: /política-de-privacidad/
+permalink: /politica-de-privacidad/
 ---
 
 ###Política de privacidad de https://ygstudios.ga
