@@ -1,0 +1,9 @@
+---
+layout: post
+title: Bienvenenidos!!
+---
+
+Down Ball ya está disponible apra descargar en dispositivos Android e iOS. Descárgalo a través de los siguientes enlaces.
+
+Android: https://play.google.com/store/apps/details?id=com.yougamestudios.downball
+iOS: https://itunes.apple.com/us/app/down-ball-falling-challenge/id1437313225?l=es&ls=1&mt=8
