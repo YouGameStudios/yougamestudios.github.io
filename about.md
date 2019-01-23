@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+Algo de información sobre nosotros
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You Games Studios es un pequeño estudio independiente de deasrollo de aplicaciones multiplataformas (Android e iOS). Nos encantan los videojuegos y a eso es a lo que nos dedicamos. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yougamestudios@gmail.com](mailto:yougamestudios@gmail.com)
